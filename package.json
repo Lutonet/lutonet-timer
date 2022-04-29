@@ -1,0 +1,20 @@
+{
+  "name": "lutonet-timer",
+  "version": "1.0.0",
+  "description": "Timer JS library - allows set timers, display them, postpone the time, or run them hidden with callback functions when timer finishes, and with option to setup warning calback function at a particular time before the timer is over. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lutonet-timer"
+  },
+  "keywords": [
+    "javascript",
+    "timer",
+    "lutonet-timer"
+  ],
+  "author": "Bohuslav Pařenica - Lutonet",
+  "license": "ISC"
+}
